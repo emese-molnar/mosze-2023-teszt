@@ -24,4 +24,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
     return 0;
+    std::cout << "Üzenet";
 }
